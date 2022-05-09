@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-image: linear-gradient(#44549D 100%, #35459380 50%, hsl(224, 57%, 30%) 100%);
+}
+
+body {
+    background-color: #010a30;
+}
+
+.btn {
+    height: 50px;
+    padding: 0px 20px 0px 20px;
+    background-image: linear-gradient( #EB14FF, #6F90FF);
+    color: white;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.container {
+    margin-top: 60px;
+    background-color: #131a40;
+    width: 1518px;
+    border-radius: 26px;
+    padding: 25px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    -ms-border-radius: 26px;
+    -o-border-radius: 26px;
+    margin-bottom: 50px;
+}
+
+.label {
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 10px;
+    background-color: #182252;
+    ;
+}
+
+.ml {
+    margin-left: 10px;
+}
+
+.banner {
+    height: 100px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+.table {}
+
+.table-bordered {}
+
+.thead-table {
+    background-color: #182252;
+    color: white;
+}
+
+tbody {
+    color: white;
+}
+
+.label1 {
+    width: 515px;
+    height: 50px;
+    padding: 10px;
+    background-color: #182252;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.pcolor {
+    color: #D144F9;
+}
+
+.last {
+    width: 515px;
+    height: 45px;
+    padding: 16px, 40px, 16px, 238px;
+    text-align: center;
+    background-color: #182252;
+    color: white;
+}
+
+.border-gradient {
+    border-radius: 10px;
+    border: 1px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient( #5B86FF42, #D515FE42);
+}
+
+.magic {
+    color: #ae9d18;
+}
+
+footer {
+    background-color: #0a0b35;
+    border-top: 1px solid gray;
+    padding: 40px;
+    height: 100px;
+}
+
+.dag {
+    font-size: 30px;
+}
